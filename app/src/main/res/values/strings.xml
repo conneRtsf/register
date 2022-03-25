@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myapp1</string>
+    <string name="text1">请输入学号/账号</string>
+    <string name="text2">请输入密码</string>
+    <string name="text3">登录</string>
+    <string name="text4">还没有账号？前去注册</string>
+    <string name="todo">TODO</string>
+    <string name="text5">注册</string>
+    <string name="text6">忘记密码？</string>
+    <string name="text7">请输入邀请码</string>
+</resources>
